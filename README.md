@@ -25,5 +25,7 @@
 ### Connect with me:
 - [Twitter/X](https://x.com/valen_rolnn) `Please don't see my reposts`
 - [Instagram](https://www.instagram.com/valen_rolnn)
-- [Spotify]()
+- [Spotify](https://open.spotify.com/user/3127w7uclpnwt6e32qrvmtg4qipm)
 - [My website (actually it's my organization's)](https://vrcco.vercel.app)
+
+  
