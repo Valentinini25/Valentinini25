@@ -10,15 +10,15 @@
 - If you type `:)` into Microsoft Word you will get a more complex smiley face.
 - If you talk to me, I'll *probably answer you quickly* because, well, I have nothing to do, but you better not do it because *I'm better off sinking into my own loneliness*.
 
-### Languages that I supposedly know:
+## Languages that I supposedly know:
 - `HTML`
 - `CSS`
 
-# Languages I want to learn
+### Languages I want to learn
 - `Python` (Omg! How could you not know Python? Idiot.)
 - `JavaScript` (Omg! you really don't know anything about programming!)
 
-### My projects 
+## My projects 
 - Half of my projects are or will be on this organization's page: hhtps://github.com/VRCco
 - In short, I'm working on an open source platform to share links that the user wants, it's more complex to explain than my neurons can right now.
 
