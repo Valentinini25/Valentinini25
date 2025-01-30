@@ -42,5 +42,16 @@
 ### Tools I use:
 - Visual Studio Code 💻
 - Git & GitHub 🛠️
-- PicsArt () 🎨
+- PicsArt (Yes, PicsArt, I can't use Adobe Photoshop.) 🎨
+
+### Any future goals:
+- Being able to give all my ideas to the world for free and help others like me.
+
+### Some quotes I like (?)
+> ""
+> ""
+> ""
+
+### Any achievements I would like to show off:
+- I once made a comic about dolphins (supposedly, it was poorly done) mating and they gave me a 10.
 
