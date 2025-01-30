@@ -23,19 +23,18 @@
 - In short, I'm working on an open source platform to share links that the user wants. It's more complex to explain than my neurons can process right now. 🧠
 
 ### Connect with me:
-- [Twitter/X](https://x.com/valen_rolnn) `Please don't see my reposts`
+- [Twitter/X](https://x.com/valen_rolnn) (Please don't see my reposts)
 - [Instagram](https://www.instagram.com/valen_rolnn)
 - [Spotify](https://open.spotify.com/user/3127w7uclpnwt6e32qrvmtg4qipm)
 - [My website (actually it's my organization's)](https://vrcco.vercel.app)
 
 ### I am available for:
-- Collaborate with open source projects, on the design side.
-- Share ideas.
-- Receive help (Why why not)
+- Collaborating on open source projects, on the design side.
+- Sharing ideas.
+- Receiving help (Why why not).
 
 ### My learning:
-- SEO *is brutally killing me*
+- SEO *is brutally killing me*.
 
-### a random memory:
-- I thought I could make an AI, but clearly, my PC almost exploded.
-  
+### A random memory:
+- I thought I could make an AI, but clearly, my PC almost exploded. 💥
