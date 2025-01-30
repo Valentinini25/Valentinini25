@@ -23,6 +23,7 @@
 - In short, I'm working on an open source platform to share links that the user wants. It's more complex to explain than my neurons can process right now. 🧠
 
 ### Connect with me:
-- [Twitter](https://x.com/valen_rolnn) `please dont look my reposts`
+- [Twitter/X](https://x.com/valen_rolnn) `Please don't see my reposts`
 - [Instagram](https://www.instagram.com/valen_rolnn)
-- [Email](mailto:your-email@example.com)
+- [Spotify]()
+- [My website (actually it's my organization's)](https://vrcco.vercel.app)
