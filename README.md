@@ -14,12 +14,15 @@
 - `HTML`
 - `CSS`
 
-### Languages I want to learn
+### Languages I want to learn:
 - `Python` (Omg! How could you not know Python? Idiot.)
 - `JavaScript` (Omg! you really don't know anything about programming!)
 
-## My projects 
-- Half of my projects are or will be on this organization's page: hhtps://github.com/VRCco
-- In short, I'm working on an open source platform to share links that the user wants, it's more complex to explain than my neurons can right now.
+## My projects:
+- Half of my projects are or will be on this organization's page: [https://github.com/VRCco](https://github.com/VRCco)
+- In short, I'm working on an open source platform to share links that the user wants. It's more complex to explain than my neurons can process right now. 🧠
 
-
+### Connect with me:
+- [Twitter](https://x.com/valen_rolnn) `please dont look my reposts`
+- [Instagram](https://www.instagram.com/valen_rolnn)
+- [Email](mailto:your-email@example.com)
