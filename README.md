@@ -28,4 +28,14 @@
 - [Spotify](https://open.spotify.com/user/3127w7uclpnwt6e32qrvmtg4qipm)
 - [My website (actually it's my organization's)](https://vrcco.vercel.app)
 
+### I am available for:
+- Collaborate with open source projects, on the design side.
+- Share ideas.
+- Receive help (Why why not)
+
+### My learning:
+- SEO *is brutally killing me*
+
+### a random memory:
+- I thought I could make an AI, but clearly, my PC almost exploded.
   
