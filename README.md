@@ -48,10 +48,11 @@
 - Being able to give all my ideas to the world for free and help others like me.
 
 ### Some quotes I like (?)
-> ""
-> ""
-> ""
+> "The people who are crazy enough to think they can change the world are the ones who do." - *Steve Jobs*
+> "When something is important enough, you do it even if the odds are not in your favor." - *Elon Musk*
+> "The biggest risk is not taking any risk." - *Mark Zuckerberg*
 
 ### Any achievements I would like to show off:
 - I once made a comic about dolphins (supposedly, it was poorly done) mating and they gave me a 10.
 
+*CLARIFICATION: Please do not use this description as something serious or a presentation, it would be very embarrassing and I did not do it for those purposes 😥*
