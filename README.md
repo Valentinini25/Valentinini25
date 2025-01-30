@@ -38,3 +38,9 @@
 
 ### A random memory:
 - I thought I could make an AI, but clearly, my PC almost exploded. 💥
+
+### Tools I use:
+- Visual Studio Code 💻
+- Git & GitHub 🛠️
+- PicsArt () 🎨
+
