@@ -4,13 +4,13 @@
 - My favorite sport is listening to music. 🎵
 - I'm a programmer with no experience at all.
 - I'm working on several projects, although *that's affecting my psyche a bit...*
-- I work on a PC from 2010, so let's say I can't do much more than web pages.
+- I work on a PC from 2010, so let's say I can only manage web pages for now.
 
 ### Fun facts:
-- If you type `:)` into Microsoft Word you will get a more complex smiley face.
-- If you talk to me, I'll *probably answer you quickly* because, well, I have nothing to do, but you better not do it because *I'm better off sinking into my own loneliness*.
+- If you type `:)` into Microsoft Word, you'll get a more complex smiley face.
+- If you talk to me, I'll *probably answer quickly* because, well, I have nothing to do, but you better not do it because *I'm better off sinking into my own loneliness*.
 
-## Languages that I supposedly know:
+## Languages I supposedly know:
 - `HTML`
 - `CSS`
 
@@ -19,40 +19,40 @@
 - `JavaScript` (Omg! you really don't know anything about programming!)
 
 ## My projects:
-- Half of my projects are or will be on this organization's page: [https://github.com/VRCco](https://github.com/VRCco)
-- In short, I'm working on an open source platform to share links that the user wants. It's more complex to explain than my neurons can process right now. 🧠
+- Half of my projects are or will be hosted on this organization's page: [https://github.com/VRCco](https://github.com/VRCco)
+- In short, I'm working on an open-source platform to share links that the user wants. It's too complex to explain with the mental capacity I currently have. 🧠
 
 ### Connect with me:
-- [Twitter/X](https://x.com/valen_rolnn) (Please don't see my reposts)
+- [Twitter/X](https://x.com/valen_rolnn) (Please don't judge my reposts)
 - [Instagram](https://www.instagram.com/valen_rolnn)
 - [Spotify](https://open.spotify.com/user/3127w7uclpnwt6e32qrvmtg4qipm)
 - [My website (actually it's my organization's)](https://vrcco.vercel.app)
 
-### I am available for:
-- Collaborating on open source projects, on the design side.
+### I'm available for:
+- Collaborating on open-source projects (design side).
 - Sharing ideas.
-- Receiving help (Why why not).
+- Receiving help (Why not?).
 
 ### My learning:
 - SEO *is brutally killing me*.
 
 ### A random memory:
-- I thought I could make an AI, but clearly, my PC almost exploded. 💥
+- I once tried to make an AI, but my PC nearly exploded. 💥
 
 ### Tools I use:
 - Visual Studio Code 💻
 - Git & GitHub 🛠️
-- PicsArt (Yes, PicsArt, I can't use Adobe Photoshop.) 🎨
+- PicsArt (Yes, PicsArt, I can't use Adobe Photoshop) 🎨
 
-### Any future goals:
-- Being able to give all my ideas to the world for free and help others like me.
+### Future goals:
+- To give all my ideas to the world for free and help others like me.
 
-### Some quotes I like (?)
-> "The people who are crazy enough to think they can change the world are the ones who do." - *Steve Jobs*
-> "When something is important enough, you do it even if the odds are not in your favor." - *Elon Musk*
-> "The biggest risk is not taking any risk." - *Mark Zuckerberg*
+### Some quotes I like (?):  
+> "The people who are crazy enough to think they can change the world are the ones who do." – *Steve Jobs*  
+> "When something is important enough, you do it even if the odds are not in your favor." – *Elon Musk*  
+> "The biggest risk is not taking any risk." – *Mark Zuckerberg*  
 
-### Any achievements I would like to show off:
-- I once made a comic about dolphins (supposedly, it was poorly done) mating and they gave me a 10.
+### Achievements I like to show off:  
+- I once made a comic about dolphins (supposedly, it was poorly done) mating... and I got a 10/10. 🎨
 
-*CLARIFICATION: Please do not use this description as something serious or a presentation, it would be very embarrassing and I did not do it for those purposes 😥*
+*CLARIFICATION: Please don’t take this description seriously, it was not meant for presentations and would be super embarrassing if used that way 😥*
